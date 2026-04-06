@@ -11,3 +11,5 @@ function dividir(a, b) {
 }
 
 module.exports = { sumar, restar, dividir };
+
+console.log("Calculadora lista");
